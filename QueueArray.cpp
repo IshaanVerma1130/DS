@@ -1,4 +1,3 @@
-//ishaan verma
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -112,4 +111,3 @@ int main() {
 	cout << "Removing " << q.deQueue() << endl;
 	q.size();
 }
-//ishaan verma
